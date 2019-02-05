@@ -1,0 +1,6 @@
+C:\users\ktenz\
+npx create_react-app my-app
+C:\users\ktenz\my-app
+cd my-app
+npm start
+*this will get the app up and running and will launch on localhost:3000
